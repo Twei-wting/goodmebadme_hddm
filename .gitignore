@@ -1,0 +1,12 @@
+# 数据文件（按需保留示例数据）
+*.csv
+*.mat
+# HDDM 模型结果
+traces/
+results/
+*.nc
+*.db
+# Python 缓存
+__pycache__/
+.ipynb_checkpoints/
+.venv/
